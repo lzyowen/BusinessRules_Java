@@ -6,6 +6,6 @@ In my project I have added couple of functionality.
  2. Create a Decision Function
  
 
-As of now this is complete executable code in the following environment. No need to add any external jars. All libraries are with reference to Jdeveloper libraries. 
+As of now this is complete executable code in the Jdevloper 11.1.1.7 ide environment. No need to add any external jars. All libraries are with reference to Jdeveloper. 
 
 Thanks. 
