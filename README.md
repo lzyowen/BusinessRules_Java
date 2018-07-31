@@ -22,7 +22,8 @@ Thanks.
   ![Runtime Lib](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/adfruntime.JPG)
 ## Running Step
   - Execute InsuranceProductsRules.java  
-      running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .      
+      running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .   
+      ![Decision Table](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/decisiontable.JPG)
   - Execute InsuranceProductsRuleClient.java  
       running this Java file to to invoke Insurance rule through decision Point.
-   ![Decision Table](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/decisiontable.JPG)
+      ![Result](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/result.JPG)
