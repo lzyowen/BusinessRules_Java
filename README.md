@@ -16,8 +16,10 @@ Thanks.
   - According to age and policy type of Person to caculate corresponding insurance product
   - Utilize Oracle Rules SDK to create business rule and excute this rule
 ## Load Libs
-  - Rules Lib
-  - ADF Model Runtime
+  - Rules Lib  
+  ![Rules Lib](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/rulelib.JPG)
+  - ADF Model Runtime  
+  ![Runtime Lib](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/adfruntime.JPG)
 ## Running Step
   - Execute InsuranceProductsRules.java  
       running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .      
