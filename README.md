@@ -19,7 +19,7 @@ Thanks.
   - Rules Lib
   - ADF Model Runtime
 ## Running Step
-  - Execute InsuranceProductsRules.java
-      running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .     
-  - Execute InsuranceProductsRuleClient.java
+  - Execute InsuranceProductsRules.java  
+      running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .      
+  - Execute InsuranceProductsRuleClient.java  
       running this Java file to to invoke Insurance rule through decision Point.
