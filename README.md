@@ -26,5 +26,7 @@ Thanks.
       ![Decision Table](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/decisiontable.JPG)
   - Execute InsuranceProductsRuleClient.java  
       running this Java file to to invoke Insurance rule through decision Point.
-## Running Output  
-      ![Result](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/result.JPG)
+  - Running Output
+       ![Result](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/result.JPG)
+
+     
