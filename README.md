@@ -25,3 +25,4 @@ Thanks.
       running this Java file to create Dictionary, Decision Function,Decisiont Table ... of Insurance rule .      
   - Execute InsuranceProductsRuleClient.java  
       running this Java file to to invoke Insurance rule through decision Point.
+   ![Decision Table](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/decisiontable.JPG)
