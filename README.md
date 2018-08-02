@@ -15,6 +15,7 @@ Thanks.
 ## Secnario
   - According to age and policy type of Person to caculate corresponding insurance product
   - Utilize Oracle Rules SDK to create business rule and excute this rule
+  - How to create general rule see ![RulesSDK](https://github.com/rdbwebster/RulesSDK)
 ## Load Libs
   - Rules Lib  
   ![Rules Lib](https://github.com/lzyowen/BusinessRules_Java/blob/master/images/rulelib.JPG)
