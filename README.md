@@ -10,7 +10,7 @@ As of now this is complete executable code in Jdevloper 11.1.1.7 ide environment
 
 Thanks. 
 
-----------------------------------------
+*********************************************
 
 ## Secnario
   - According to age and policy type of Person to caculate corresponding insurance product
